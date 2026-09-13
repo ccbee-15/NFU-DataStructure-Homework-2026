@@ -25,4 +25,4 @@ python homework1/tests/test_homework.py ./homework1.exe
 
 每次執行先選題目 `1` 或 `2`，再提供參數；也可直接執行後依提示輸入。程式的輸入及資源上限詳見報告。
 
-此 repo fork 自 [老師的官方範本](https://github.com/NFU-OpenDataStructure/Homework-template)。`.github` 與 `homework-template` 保留原樣；本次提交的作業放在根目錄下的 `homework1`。
+此 repo fork 自 [老師的官方範本](https://github.com/NFU-OpenDataStructure/Homework-template)。`.github` 內老師原有的檔案與 `homework-template` 保留原樣；另新增 `homework1-tests.yml`，在 Linux 上編譯、跑功能測試，並執行老師原始的報告檢查器，也支援手動啟動。本次提交的作業放在根目錄下的 `homework1`。
